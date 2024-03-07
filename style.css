@@ -1,0 +1,35 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;600;800&display=swap');
+
+*,
+::after,
+::before {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+h1 {
+    font-size: 2.5rem;
+    color: #fff;
+    text-align: center;
+}
+
+li {
+    list-style: none;
+}
+
+a {
+    text-decoration: none;
+}
+
+body {
+    font-family: 'Poppins', sans-serif;
+}
+
+/* ====================================================================================  
+
+Please consider watching and following along with this video tutorial to learn and engage in the project. 
+By doing so, you can gain valuable hands-on experience and support yourself in the process. 
+Take advantage of the tutorial to enhance your skills and understanding.
+
+====================================================================================== */
